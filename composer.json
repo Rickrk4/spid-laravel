@@ -1,5 +1,5 @@
 {
-  "name": "italia/spid-laravel",
+  "name": "rickrk4/spid-laravel",
   "description": "Laravel Package for SPID authentication",
   "keywords": ["SPID", "Laravel", "PHP"],
   "homepage": "https://github.com/italia/spid-laravel",
