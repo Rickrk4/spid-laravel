@@ -11,10 +11,10 @@
     }
   ],
   "require": {
-    "php": "^7.2.0",
+    "php": ">=7.2.0",
     "illuminate/config": ">=6.0",
     "illuminate/support": ">=6.0",
-    "onelogin/php-saml": "3.4.1",
+    "italia/spid-php" : "master",
     "cweagans/composer-patches": "^1.7",
     "nesbot/carbon": "^2.46"
   },
