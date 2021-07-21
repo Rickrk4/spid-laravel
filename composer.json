@@ -16,7 +16,8 @@
     "illuminate/support": ">=6.0",
     "onelogin/php-saml": "3.4.1",
     "cweagans/composer-patches": "^1.7",
-    "nesbot/carbon": "^2.46"
+    "nesbot/carbon": "^2.46",
+    "italia/spid-php" : "3.8"
   },
   "require-dev": {
     "pds/skeleton": "~1.0",
